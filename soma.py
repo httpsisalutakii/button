@@ -11,7 +11,7 @@ def soma ():
 # front-end
 # window
 janela = Tk()
-
+#a
 # valores constantes
 fn = 'Arial 26'
 
